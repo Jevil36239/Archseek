@@ -69,9 +69,11 @@ go build
 ```
 # Paste your configuration here
 # Example:
-# batch_size = 100
-# max_threads = 10
-# output_path = ./downloads/
+
+# [BatchProcessing]
+# BatchSize = 10
+# MaxThreads = 50
+# Timeout = 30
 ```
 
 ### Resource Usage Levels
