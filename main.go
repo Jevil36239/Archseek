@@ -9,7 +9,7 @@ import (
 	"github.com/fatih/color"
 
 	"archseek/banner"
-	"archseek/module"
+	"archseek/Module"
 )
 
 var (
